@@ -6,6 +6,8 @@
 
 Aprendi muitos conceitos e pude aplicá-los e brincar um pouco com cada propriedade para entender melhor como funcionava. 
 
+❗❕ Fiz o site compativel com os navegadores web e também com os navegadores mobile. No video dá pra ver mais ou menos como ficou rs
+
 <strong>Para este projeto foi utilizado: HTML5 e CSS3.
 
 [barbearia alura.webm](https://user-images.githubusercontent.com/112431842/196721146-35c7615c-d517-4654-beb2-60bbbced41c9.webm)
